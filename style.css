@@ -29,7 +29,7 @@ img {
   margin-bottom: 20px;
 }
 
-h2,
+h1,
 p {
   font-family: Outfit, sans-serif;
 }
@@ -38,8 +38,9 @@ p {
   padding: 0 25px;
 }
 
-h2 {
+h1 {
   margin-bottom: 20px;
+  font-size: 1.5em;
 }
 
 p {
