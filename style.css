@@ -3,14 +3,23 @@
   padding: 0;
   box-sizing: border-box;
 }
+/* @media screen and (min-width: 1440px) {
+  .container {
+    background-color: hsl(212, 45%, 89%);
+    width: 375px;
+    height: 667px;
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+  } */
 
+/* @media screen and (min-width: 376px) { */
 .container {
+  width: 1440px;
+  height: 1056px;
   background-color: hsl(212, 45%, 89%);
-  width: 375px;
-  height: 667px;
   display: flex;
   align-items: center;
-  margin: 0 auto;
 }
 
 article {
@@ -33,8 +42,10 @@ img {
 h2,
 p {
   font-family: Outfit, sans-serif;
-  margin-left: 15px;
-  margin-right: 15px;
+}
+
+.info {
+  padding: 0 25px;
 }
 
 h2 {
