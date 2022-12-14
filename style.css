@@ -3,17 +3,7 @@
   padding: 0;
   box-sizing: border-box;
 }
-/* @media screen and (min-width: 1440px) {
-  .container {
-    background-color: hsl(212, 45%, 89%);
-    width: 375px;
-    height: 667px;
-    display: flex;
-    align-items: center;
-    margin: 0 auto;
-  } */
 
-/* @media screen and (min-width: 376px) { */
 .container {
   width: 1440px;
   height: 1056px;
